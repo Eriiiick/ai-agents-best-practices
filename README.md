@@ -1,5 +1,9 @@
 # AI Coding Agents: Tips, Tricks, and Best Practices
 
+<p align="center">
+  <img src="./cover.png" alt="AI Coding Agents" width="720" />
+</p>
+
 A lightweight, community-driven repo focused on practical guidance for AI coding agents. Short, high-signal writeups and examples. No bloat.
 
 - Purpose: share what actually works when shipping agentic coding workflows
@@ -7,7 +11,7 @@ A lightweight, community-driven repo focused on practical guidance for AI coding
 - Contributions: PRs welcome—add tips, mistakes to avoid, or small, runnable examples
 
 ## Articles
-- Boss-on-Top: one decision-maker, many specialists → `articles/boss-on-top.md`
+- Boss-on-Top: one decision-maker, many specialists → [articles/boss-on-top.md](articles/boss-on-top.md)
 
 ## Contributing
 - Keep it concise and actionable

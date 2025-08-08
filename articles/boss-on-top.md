@@ -2,7 +2,7 @@
 
 This pattern runs a single “boss” agent that plans, routes, reviews, and merges. Specialist workers handle speed, long context, and narrow skills. Keep judgment centralized; keep throughput distributed.
 
-![Boss-on-Top diagram](../assets/boss-on-top.png)
+![Boss-on-Top diagram](../cover.png)
 
 ## TL;DR
 - Cursor Agent on GPT-5 acts as the boss (inside the IDE)
