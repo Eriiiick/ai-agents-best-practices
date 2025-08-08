@@ -1,0 +1,3 @@
+# Routing
+- Prefer GPT-5 for boss/decision steps; use Groq for speed; use Gemini for long context
+- Always log worker outputs to logs/agent_log.jsonl before proposing merges

@@ -1,0 +1,2 @@
+# Notifications
+- When a task completes, run: /Users/erick/bin/notify_done.sh "${TASK_NAME:-Task finished}" Ping  # terminal-notifier + emoji

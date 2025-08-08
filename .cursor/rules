@@ -1,2 +1,8 @@
 # Notify when the agent finishes an operation
-- When a task completes, run: /Users/erick/bin/notify_done.sh "Task finished" Ping  # Notification Center via terminal-notifier + emoji
+- When a task completes, run: /Users/erick/bin/notify_done.sh "${TASK_NAME:-Task finished}" Ping  # Notification Center via terminal-notifier + emoji
+
+# Include other rule sets
+@include .cursor/rules.routing
+@include .cursor/rules.safety
+@include .cursor/rules.git
+@include .cursor/rules.notifications

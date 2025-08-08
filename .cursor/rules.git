@@ -1,0 +1,4 @@
+# Git hygiene
+- Keep commits small and focused; write clear messages
+- Never commit secrets or tokens
+- Run evals/tests when available before proposing large changes

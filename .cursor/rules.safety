@@ -1,0 +1,4 @@
+# Safety
+- Refuse destructive actions unless explicitly approved
+- Enforce timeouts, cost ceilings, and recursion limits
+- Always show diffs and request confirmation before irreversible steps
