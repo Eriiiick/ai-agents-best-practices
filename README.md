@@ -13,7 +13,6 @@ A lightweight, community-driven repo focused on practical guidance for AI coding
 ## Articles
 - Boss-on-Top: one decision-maker, many specialists → [articles/boss-on-top.md](articles/boss-on-top.md)
 - Finish notifications on macOS → [articles/finish-notifications.md](articles/finish-notifications.md)
-- Copy‑paste snippets for rules/prompts → [articles/copy-paste-snippets.md](articles/copy-paste-snippets.md)
 
 ## Contributing
 - Keep it concise and actionable
