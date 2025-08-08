@@ -1,0 +1,2 @@
+# Notify when the agent finishes an operation
+- When a task completes, run: /Users/erick/bin/notify_done.sh "Task finished" Submarine
