@@ -11,12 +11,13 @@ The repo includes a tiny script at `~/bin/notify_done.sh` using built-in `osascr
 
 - First arg: message
 - Second arg (optional): system sound (e.g., `Submarine`, `Ping`, `Pop`)
+- Auto-emoji: the script appends a relevant emoji based on keywords (tests🧪, deploy🚀, lint🧹, fishing🎣, etc.)
 
 ## Cursor Rule
 Add a completion reminder so the agent triggers a toast:
 
 ```
-- When a task completes, run: /Users/erick/bin/notify_done.sh "${TASK_NAME:-Task finished}" Submarine
+- When a task completes, run: /Users/erick/bin/notify_done.sh "${TASK_NAME:-Task finished}" Submarine  # auto-emoji based on task
 ```
 
 Stored in `.cursor/rules` for this repo.
